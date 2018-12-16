@@ -16,6 +16,10 @@ extracting the python source
 
 `tar -xzvf Python-3.7.0.tgz`{{execute}}
 
+change to extracted directory
+
+`cd Python-3.7.0` {{execute}}
+
 building from the source
 
 `./configure`{{execute}}
