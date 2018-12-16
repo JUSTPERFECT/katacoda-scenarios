@@ -5,25 +5,25 @@ Installing python3.7 runtime on ubuntu
 
 Downloading python3 dependencies
 
-apt install build-essential -y {{execute}} 
-apt install libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev -y {{execute}}
+`apt install build-essential -y`{{execute}} 
+`apt install libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev -y`{{execute}}
 
 downloading the python source
 
-wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz {{execute}}
+`wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz`{{execute}}
 
 extracting the python source
 
-tar -xzvf Python-3.7.0.tgz {{execute}}
+`tar -xzvf Python-3.7.0.tgz`{{execute}}
 
 building from the source
 
-./configure {{execute}}
-make {{execute}}
-make install {{execute}}
+`./configure`{{execute}}
+`make`{{execute}}
+`make install`{{execute}}
 
-Now type python3
+Now type python3 on the prompt
 
-python3 {{execute}}
+`python3`{{execute}}
 
-Now you successfully Installed the python3.
+Now you successfully Installed the python3 on ubuntu.
