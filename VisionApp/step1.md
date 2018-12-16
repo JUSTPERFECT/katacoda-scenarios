@@ -3,6 +3,10 @@ This is your first step.
 Installing python3.7 runtime on ubuntu
 ## Task
 
+Perform updates on ubuntu
+
+`apt update && apt upgrade -y` {{execute}}
+
 Downloading python3 dependencies
 
 `apt install build-essential -y`{{execute}} 
