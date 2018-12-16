@@ -22,7 +22,7 @@ extracting the python source
 
 change to extracted directory
 
-`cd Python-3.7.0` {{execute}}
+`cd Python-3.7.0`{{execute}}
 
 building from the source
 
