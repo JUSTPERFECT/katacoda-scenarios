@@ -5,7 +5,7 @@ Installing python3.7 runtime on ubuntu
 
 Perform updates on ubuntu
 
-`apt update && apt upgrade -y`{{execute}}
+`apt update -y`{{execute}}
 
 Downloading python3 dependencies
 
